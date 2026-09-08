@@ -1,0 +1,2 @@
+bin/win_x64/plugins/*.dll
+*.cfg
