@@ -10,7 +10,7 @@ It locates the gearbox code by byte patterns instead of fixed addresses, so it n
 
 ## Install
 
-Copy the `bin` folder into your ETS2 installation directory, so the DLL ends up here:
+Download the latest zip from [Releases](../../releases), then copy the `bin` folder from it into your ETS2 installation directory, so the DLL ends up here:
 
 ```
 Euro Truck Simulator 2\bin\win_x64\plugins\car_automatic_transmission.dll
