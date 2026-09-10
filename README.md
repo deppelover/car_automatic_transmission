@@ -1,10 +1,10 @@
-# car_automatic_transmission
+# ETS2 Improved Automatic Transmission
 
 A plugin for Euro Truck Simulator 2 that makes the automatic gearbox behave like a car's automatic instead of a truck's. Written for car mods, but it applies to every vehicle.
 
 ## Requirements
 
-Developed and verified against Euro Truck Simulator 2, Windows 64-bit, Version 1.61.0.254.
+Developed and verified against Euro Truck Simulator 2, Windows 64-bit, Version 1.61.0.254. Tested with Pedals and Keyboard.
 
 It locates the gearbox code by byte patterns instead of fixed addresses, so it normally survives game updates and if it cannot find what it expects, it does nothing at all.
 
@@ -19,6 +19,8 @@ Euro Truck Simulator 2\bin\win_x64\plugins\car_automatic_transmission.dll
 Create the `plugins` folder if it does not exist. Start the game once and a `car_automatic_transmission.cfg` holding the defaults appears next to the DLL.
 
 To uninstall, just delete the DLL.
+
+Please provide feedback if you encounter any bugs or if something isn't working properly. I will fix it. 
 
 ## Configuration
 
